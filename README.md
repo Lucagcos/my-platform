@@ -4,9 +4,9 @@ This repository contains my personal production platform, a full-stack portfolio
 
 ## Current Status
 
-The initial repository structure and Git/GitHub development workflow have been established.
-
-The frontend, backend, database, deployment environments, and other production capabilities will be added incrementally during the course.
+The initial repository structure and Git/GitHub development workflow are in place.
+The React and TypeScript frontend is built with Vite; backend, database, deployment,
+and other production capabilities will be added incrementally during the course.
 
 ## Repository Structure
 
